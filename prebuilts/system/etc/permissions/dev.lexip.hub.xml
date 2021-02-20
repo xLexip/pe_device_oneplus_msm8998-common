@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<permissions>
+    <privapp-permissions package="dev.lexip.hub">
+        <permission name="android.permission.INTERNET"/>
+        <permission name="android.permission.RECIEVE_BOOT_COMPLETED"/>
+        <permission name="android.permission.FOREGROUND_SERVICE"/>
+        <permission name="android.permission.REQUEST_DELETE_PACKAGES"/>
+        <permission name="android.permission.ACCESS_NETWORK_STATE"/>
+        <permission name="android.permission.VIBRATE"/>
+    </privapp-permissions>
+</permissions>
