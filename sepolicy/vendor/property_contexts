@@ -18,8 +18,6 @@ ro.camera.                             u:object_r:camera_prop:s0
 ro.vendor.camera.                      u:object_r:camera_prop:s0
 vendor.camera.                         u:object_r:camera_prop:s0
 
-vendor.display.mode                    u:object_r:vendor_display_prop:s0
-
 # Fingerprint
 fpc_kpi                                u:object_r:vendor_fp_prop:s0
 gf.debug.                              u:object_r:vendor_fp_prop:s0
